@@ -5,3 +5,16 @@
     justify-content: center;
     align-content: center;
 }
+.card{
+    margin: auto;
+}
+footer{
+    height: 80px;
+    width: 100%;
+    background-color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
